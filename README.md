@@ -55,17 +55,16 @@
 
 ## 🚀 Featured Projects
 
-### 📚 Student Attendance System — Django
-A full-stack attendance tracking system with authentication, role-based access, and real-time records.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=student-attendance-system)](https://github.com/officialontar/student-attendance-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=ecommerce-store)](https://github.com/officialontar/ecommerce-store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=real-time-chat-app)](https://github.com/officialontar/real-time-chat-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=resume-builder-platform)](https://github.com/officialontar/resume-builder-platform)
 
-### 🛒 E-Commerce Store — Django + React
-Dynamic product management, cart system, payment integration, and admin dashboard.
+---
 
-### 💬 Real-time Chat App
-Socket-based messaging platform allowing users to chat instantly after connecting.
+## 🐍 Contribution Snake Animation
 
-### 📄 Resume Builder Platform
-Users can create accounts, upload images, update resume sections & download PDF versions.
+![Snake animation](https://github.com/officialontar/snake-animation/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -81,6 +80,18 @@ Users can create accounts, upload images, update resume sections & download PDF 
 
 ---
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=officialontar&theme=flat)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=officialontar&theme=github-light)
+
+---
+
 ## 📬 Connect with Me
 
 <p>
@@ -90,7 +101,7 @@ Users can create accounts, upload images, update resume sections & download PDF 
   <a href="mailto:officialontar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/officalontar">
+  <a href="https://github.com/officialontar">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
