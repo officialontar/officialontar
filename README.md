@@ -1,23 +1,24 @@
 <h1 align="center">HI 👋, I'M MD. ANISUJJAMAN ONTAR</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
+<h2 align="center">FULL STACK DEVELOPER</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=40&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;PYTHON+%7C+DJANGO+%7C+REACT;BUILDING+REAL+WORLD+PROJECTS;ALWAYS+LEARNING+NEW+THINGS" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3DDC84&size=40&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;PYTHON+%7C+DJANGO+%7C+REACT;BUILDING+REAL+WORLD+PROJECTS;ALWAYS+LEARNING+NEW+THINGS" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=officialontar&color=lightgrey" />
-  <img src="https://img.shields.io/github/followers/officialontar?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=officialontar&color=0F9D58&label=PROFILE+VIEWS" /> &nbsp;
+  <img src="https://img.shields.io/github/followers/officialontar?style=social&label=FOLLOWERS&color=4285F4" /> &nbsp;
+  <img src="https://img.shields.io/github/stars/officialontar?style=social&label=STARS&color=F4B400" />
 </p>
 
 ---
 
 ## 👨‍💻 ABOUT ME
 
-- 🚀 FULL STACK DEVELOPER PASSIONATE ABOUT BUILDING REAL-WORLD APPLICATIONS  
-- 🌱 WORKING WITH **PYTHON, DJANGO, REACT**  
-- 🧠 STRONG INTEREST IN BACKEND LOGIC & CLEAN UI  
-- 🎯 GOAL: BECOME A PROFESSIONAL SOFTWARE ENGINEER
+- PASSIONATE FULL STACK DEVELOPER  
+- WORKING WITH **PYTHON, DJANGO, REACT**  
+- BUILDING REAL-WORLD APPLICATIONS  
+- ALWAYS LEARNING NEW TECHNOLOGIES
 
 ---
 
@@ -55,30 +56,34 @@
 
 ## 🚀 FEATURED PROJECTS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=student-attendance-system&theme=light)](https://github.com/officialontar/student-attendance-system)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=ecommerce-store&theme=light)](https://github.com/officialontar/ecommerce-store)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=real-time-chat-app&theme=light)](https://github.com/officialontar/real-time-chat-app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=resume-builder-platform&theme=light)](https://github.com/officialontar/resume-builder-platform)
+- [Student Attendance System – Django](https://github.com/officialontar/student-attendance-system)  
+- [E-Commerce Store – Django + React](https://github.com/officialontar/ecommerce-store)  
+- [Real-time Chat App](https://github.com/officialontar/real-time-chat-app)  
+- [Resume Builder Platform](https://github.com/officialontar/resume-builder-platform)
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE ANIMATION (WORKFLOW LATER)
+## 🔮 FUTURE PROJECTS + PERSONAL WEBSITES
 
-![Snake animation](https://github.com/officialontar/snake-animation/blob/output/github-contribution-grid-snake.svg)
+- Original style layout (no images)  
+- Personal websites as clickable badges:
+
+<p align="center">
+  <a href="https://officialontar-web.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-1-blue?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://officialontar.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2-green?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialontar&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=officialontar&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -86,12 +91,6 @@
 ## 🏆 GITHUB TROPHIES
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=officialontar&theme=flat&no-bg=true&column=3)
-
----
-
-## 📈 ACTIVITY GRAPH
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=officialontar&theme=github-light)
 
 ---
 
@@ -111,17 +110,9 @@
 
 ---
 
-## 🐍 FUN PYTHON SNIPPET
+## 🐍 SNAKE ANIMATION (WORKFLOW READY)
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "MD. ANISUJJAMAN ONTAR"
-        self.role = "FULL STACK DEVELOPER"
-        self.skills = ["PYTHON", "DJANGO", "REACT"]
+![Snake animation](https://github.com/officialontar/snake-animation/blob/output/github-contribution-grid-snake.svg)
 
-    def introduce(self):
-        return f"HI, I'M {self.name}, A PASSIONATE {self.role} 🚀"
+---
 
-me = Developer()
-print(me.introduce())
