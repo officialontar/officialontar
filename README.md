@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm MD. ANISUJJAMAN ONTAR</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">HI 👋, I'M MD. ANISUJJAMAN ONTAR</h1>
+<h3 align="center">FULL STACK DEVELOPER</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Real+World+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=40&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;PYTHON+%7C+DJANGO+%7C+REACT;BUILDING+REAL+WORLD+PROJECTS;ALWAYS+LEARNING+NEW+THINGS" />
 </p>
 
 <p align="center">
@@ -12,16 +12,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-- 🚀 Full Stack Developer passionate about building real-world applications  
-- 🌱 Working with **Python, Django, React**  
-- 🧠 Strong interest in backend logic & clean UI  
-- 🎯 Goal: Become a professional software engineer
+- 🚀 FULL STACK DEVELOPER PASSIONATE ABOUT BUILDING REAL-WORLD APPLICATIONS  
+- 🌱 WORKING WITH **PYTHON, DJANGO, REACT**  
+- 🧠 STRONG INTEREST IN BACKEND LOGIC & CLEAN UI  
+- 🎯 GOAL: BECOME A PROFESSIONAL SOFTWARE ENGINEER
 
 ---
 
-## 🧑‍💻 Languages
+## 🧑‍💻 LANGUAGES
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## ⚙️ FRAMEWORKS & LIBRARIES
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind,nodejs" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 🗄️ Databases
+## 🗄️ DATABASES
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
@@ -45,7 +45,7 @@
 
 ---
 
-## 🧰 Tools & Platforms
+## 🧰 TOOLS & PLATFORMS
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
@@ -53,72 +53,75 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=student-attendance-system)](https://github.com/officialontar/student-attendance-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=ecommerce-store)](https://github.com/officialontar/ecommerce-store)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=real-time-chat-app)](https://github.com/officialontar/real-time-chat-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=resume-builder-platform)](https://github.com/officialontar/resume-builder-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=student-attendance-system&theme=light)](https://github.com/officialontar/student-attendance-system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=ecommerce-store&theme=light)](https://github.com/officialontar/ecommerce-store)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=real-time-chat-app&theme=light)](https://github.com/officialontar/real-time-chat-app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialontar&repo=resume-builder-platform&theme=light)](https://github.com/officialontar/resume-builder-platform)
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 CONTRIBUTION SNAKE ANIMATION (WORKFLOW LATER)
 
 ![Snake animation](https://github.com/officialontar/snake-animation/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialontar&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=officialontar&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GITHUB TROPHIES
 
-![trophy](https://github-profile-trophy.vercel.app/?username=officialontar&theme=flat)
+![trophy](https://github-profile-trophy.vercel.app/?username=officialontar&theme=flat&no-bg=true&column=3)
 
 ---
 
-## 📈 Activity Graph
+## 📈 ACTIVITY GRAPH
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=officialontar&theme=github-light)
 
 ---
 
-## 📬 Connect with Me
+## 📬 CONNECT WITH ME
 
-<p>
+<p align="center">
   <a href="https://github.com/officialontar">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:officialontar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/officialontar">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/officialontar">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🐍 Fun Python Snippet
+## 🐍 FUN PYTHON SNIPPET
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "MD. ANISUJJAMAN ONTAR"
-        self.role = "Full Stack Developer"
-        self.skills = ["Python", "Django", "React"]
+        self.role = "FULL STACK DEVELOPER"
+        self.skills = ["PYTHON", "DJANGO", "REACT"]
 
     def introduce(self):
-        return f"Hi, I'm {self.name}, a passionate {self.role} 🚀"
+        return f"HI, I'M {self.name}, A PASSIONATE {self.role} 🚀"
 
 me = Developer()
 print(me.introduce())
