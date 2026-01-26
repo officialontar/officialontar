@@ -54,26 +54,30 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 📌 FEATURED PROJECTS
 
-- [Student Attendance System – Django](https://github.com/officialontar/student-attendance-system)  
-- [E-Commerce Store – Django + React](https://github.com/officialontar/ecommerce-store)  
-- [Real-time Chat App](https://github.com/officialontar/real-time-chat-app)  
-- [Resume Builder Platform](https://github.com/officialontar/resume-builder-platform)
+🔹 📚 **Student Attendance System – Django**  
+A full-stack attendance tracking system with authentication, role-based access, and real-time records.
+
+🔹 🛒 **E-Commerce Store – Django + React**  
+Dynamic product management, cart system, payment integration, and admin dashboard.
+
+🔹 💬 **Real-time Chat App**  
+Socket-based messaging platform allowing users to chat instantly after connecting.
+
+🔹 📄 **Resume Builder Platform**  
+Users can create accounts, upload images, update resume sections & download PDF versions.
 
 ---
 
 ## 🔮 FUTURE PROJECTS + PERSONAL WEBSITES
 
-- Original style layout (no images)  
-- Personal websites as clickable badges:
-
 <p align="center">
   <a href="https://officialontar-web.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1-blue?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/officialontar/assets/main/portfolio1-screenshot.png" width="300" style="border-radius:10px;"/>
   </a>
   <a href="https://officialontar.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-2-green?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/officialontar/assets/main/portfolio2-screenshot.png" width="300" style="border-radius:10px;"/>
   </a>
 </p>
 
@@ -90,7 +94,9 @@
 
 ## 🏆 GITHUB TROPHIES
 
-![trophy](https://github-profile-trophy.vercel.app/?username=officialontar&theme=flat&no-bg=true&column=3)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=officialontar&theme=flat&no-bg=true&column=3"/>
+</p>
 
 ---
 
@@ -112,7 +118,6 @@
 
 ## 🐍 SNAKE ANIMATION (WORKFLOW READY)
 
-![Snake animation](https://github.com/officialontar/snake-animation/blob/output/github-contribution-grid-snake.svg)
-
----
-
+<p align="center">
+  <img src="https://github.com/officialontar/snake-animation/blob/output/github-contribution-grid-snake.svg" />
+</p>
