@@ -1,5 +1,5 @@
 <h1 align="center">
-  🧑‍💻 MD. ANISUJJAMAN ONTAR — Full Stack Web Developer
+  🧑‍💻 MD. ANISUJJAMAN ONTAR || Full Stack Web Developer
 </h1>
 
 <p align="center">
@@ -101,6 +101,12 @@ Users can create profiles, upload images, customize resume sections, and export 
   </a>
   <a href="https://officialontar.netlify.app">
     <img src="https://img.icons8.com/color/48/domain.png"/>
+  </a>
+  <a href="https://instagram.com/officialontar">
+    <img src="https://img.icons8.com/color/48/instagram.png"/>
+  </a>
+  <a href="https://wa.me/8801974068788">
+    <img src="https://img.icons8.com/color/48/whatsapp.png"/>
   </a>
   <a href="https://officialontar-web.netlify.app/">
     <img src="https://img.icons8.com/color/48/domain.png"/>
