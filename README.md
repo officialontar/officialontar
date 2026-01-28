@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=760&color=7F3FBF&lines=Python+%7C+Django+%7C+React;Problem+Solver+%7C+Assistant+Trainer;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=✍️+Welcome+to+my+GitHub+Profile+!;Hello+!+I'm+MD+ANISUJJAMAN+ONTAR+💪;Full+Stack+Web+Developer;(Python+|+Django+|+React);Problem+Solver+|+Web+Developer+|+Assistant+Trainer;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -41,22 +41,22 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 ## 🛠️ Tech Stack  
 
 ### 🚀 Languages  
-<p align="center">
+<p align="Left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" />
 </p>
 
 ### ⚙️ Frameworks & Libraries  
-<p align="center">
+<p align="Left">
   <img src="https://skillicons.dev/icons?i=django,react,nodejs,express,bootstrap,tailwind" />
 </p>
 
 ### 🗄️ Databases  
-<p align="center">
+<p align="Left">>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
 </p>
 
 ### 🧰 Tools & Platforms  
-<p align="center">
+<p align="Left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,netlify" />
 </p>
 
