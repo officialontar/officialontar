@@ -108,6 +108,9 @@ Users can create profiles, upload images, customize resume sections, and export 
   <a href="https://wa.me/8801974068788">
     <img src="https://img.icons8.com/color/48/whatsapp.png"/>
   </a>
+  <a href="https://x.com/officialontar">
+    <img src="https://img.icons8.com/color/48/twitter.png"/>
+  </a>
   <a href="https://officialontar-web.netlify.app/">
     <img src="https://img.icons8.com/color/48/domain.png"/>
   </a>
