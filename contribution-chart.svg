@@ -1,0 +1,48 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="900" height="300" rx="14" fill="#ffd6ea"/>
+
+  <text x="450" y="30" text-anchor="middle"
+        font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#8b3a62">
+    MD. ANISUJJAMAN ONTAR's Contribution Graph
+  </text>
+
+  <text x="22" y="170" font-size="12" fill="#8b3a62" font-family="Arial"
+        transform="rotate(-90 22,170)">
+    Contributions
+  </text>
+  <text x="450" y="288" font-size="12" fill="#8b3a62" font-family="Arial">
+    Days
+  </text>
+
+  <g stroke="#f2a7c7" stroke-dasharray="4,4">
+    <line x1="70" y1="235" x2="860" y2="235"/>
+    <line x1="70" y1="185" x2="860" y2="185"/>
+    <line x1="70" y1="135" x2="860" y2="135"/>
+    <line x1="70" y1="85"  x2="860" y2="85"/>
+  </g>
+
+  <polyline fill="none" stroke="#9b4d96" stroke-width="3"
+    points="
+      70,235  110,235 150,235 190,235 230,235
+      270,205 310,235 350,235 390,235
+      430,160 470,235 510,235
+      550,95  590,235 630,235
+      670,85  710,140 750,90
+      790,235 830,160 860,120
+    "/>
+
+  <g fill="#3b2f3f">
+    <circle cx="70"  cy="235" r="4"/>
+    <circle cx="110" cy="235" r="4"/>
+    <circle cx="150" cy="235" r="4"/>
+    <circle cx="190" cy="235" r="4"/>
+    <circle cx="230" cy="235" r="4"/>
+    <circle cx="270" cy="205" r="4"/>
+    <circle cx="310" cy="235" r="4"/>
+    <circle cx="350" cy="235" r="4"/>
+    <circle cx="390" cy="235" r="4"/>
+    <circle cx="430" cy="160" r="4"/>
+    <circle cx="470" cy="235" r="4"/>
+    <circle cx="510" cy="235" r="4"/>
+    <circle cx="550" cy="95"  r="4"/>
+    <circle cx="590" cy="235" r="4"/>
