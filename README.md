@@ -85,8 +85,9 @@ Users can create profiles, upload images, customize resume sections, and export 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/officialontar/officialontar/main/contribution-chart.svg" width="780" alt="Contribution Chart" />
+  <img src="https://raw.githubusercontent.com/officialontar/officialontar/main/contribution-chart.svg" width="900" alt="Contribution Chart" />
 </p>
+
 
 
 
