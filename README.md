@@ -82,9 +82,13 @@ Users can create profiles, upload images, customize resume sections, and export 
 <p align="center">
   <img height="165" width="420" src="https://github-readme-stats.vercel.app/api?username=officialontar&show_icons=true&theme=radical" />
   <img height="165" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=radical" />
-  <img src="https://raw.githubusercontent.com/officialontar/officialontar/main/contribution-chart.svg" width="780" alt="Contribution Chart" />
-
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/officialontar/officialontar/main/contribution-chart.svg" width="780" alt="Contribution Chart" />
+</p>
+
+
 
 ---
 
