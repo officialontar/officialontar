@@ -77,7 +77,6 @@ Socket-based messaging platform enabling instant communication between connected
 Users can create profiles, upload images, customize resume sections, and export resumes as PDF.
 
 ---
-
 ## 📊 GitHub Statistics  
 
 <p align="center">
@@ -118,8 +117,25 @@ Users can create profiles, upload images, customize resume sections, and export 
 
 ---
 
-## 🐍 Contribution Snake  
+## 🧩 Developer Philosophy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/officialontar/officialontar/output/github-contribution-grid-snake.svg" />
-</p>
+
+```python
+class Developer:
+    def __init__(self):
+        self.intro = (
+            "MD. ANISUJJAMAN ONTAR  I am a Professional Full Stack Web Developer"
+        )
+        self.philosophy = (
+            "I write code to solve problems, not to impress machines."
+        )
+
+    def speak(self):
+        print(self.intro)
+        print()
+        print(self.philosophy)
+
+
+if __name__ == "__main__":
+    Developer().speak()
+
