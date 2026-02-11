@@ -18,12 +18,29 @@
   <img src="https://komarev.com/ghpvc/?username=officialontar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<!-- ✅ CV / RESUME SECTION (NEW) -->
-<p align="center">
-  <a href="https://drive.google.com/file/d/19Pea2TXfWynJ5jLGrMRRVIoe9cvLVP8i/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-Resume-blue?style=for-the-badge" />
+<!-- ✅ LIVE SITE + DOWNLOAD CV (40px GAP) -->
+<p align="center" style="white-space:nowrap;">
+
+  <!-- Live Portfolio -->
+  <a href="https://officialontor.netlify.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🌐%20Visit-Live%20Portfolio-00c7ff?style=for-the-badge&logo=netlify&logoColor=white"
+      alt="Visit Live Portfolio"
+      style="vertical-align:middle; margin-right:40 px;"
+    />
   </a>
+
+  <!-- Download CV -->
+  <a href="https://drive.google.com/file/d/19Pea2TXfWynJ5jLGrMRRVIoe9cvLVP8i/view?usp=sharing" target="_blank">
+    <img
+      src="https://img.shields.io/badge/📄%20Download%20My%20CV-Resume-blue?style=for-the-badge"
+      alt="Download My CV"
+      style="vertical-align:middle;"
+    />
+  </a>
+
 </p>
+
 
 ---
 
@@ -98,6 +115,9 @@ Users can create profiles, upload images, customize resume sections, and export 
 <p align="center">
   <a href="mailto:officialontar@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>
+  <a href="https://officialontor.netlify.app/">
+    <img src="https://img.icons8.com/color/48/domain.png"/>
   </a>
   <a href="https://linkedin.com/in/officalontar">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
