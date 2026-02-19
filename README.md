@@ -54,28 +54,151 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 - ✍️ Open-source contributor & tech writer  
 
 ---
+## 🛠 Languages and Tools
 
-## 🛠️ Tech Stack  
+---
 
-### 🚀 Languages  
-<p align="Left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" />
-</p>
+### 💻 Programming Languages
+<div align="center">
 
-### ⚙️ Frameworks & Libraries  
-<p align="Left">
-  <img src="https://skillicons.dev/icons?i=django,react,nodejs,express,bootstrap,tailwind" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="60"/><br>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" width="60"/><br>PHP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="60"/><br>Kotlin</td>
+</tr>
+</table>
 
-### 🗄️ Databases  
-<p align="Left">>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
-</p>
+</div>
 
-### 🧰 Tools & Platforms  
-<p align="Left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,netlify" />
-</p>
+---
+
+### 🌐 Web & Frameworks
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" width="60"/><br>Django</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>FastAPI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=wordpress" width="60"/><br>WordPress</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="60"/><br>Express</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🗄 Databases & DevOps
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="60"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="60"/><br>SQLite</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="60"/><br>GitLab</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🧪 Testing & Editors
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="60"/><br>Postman
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pycharm" width="60"/><br>PyCharm
+</td>
+
+<td align="center">
+  <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="60"/><br>Notepad++
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sublime" width="60"/><br>Sublime
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=idea" width="60"/><br>IntelliJ
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub Desktop
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🎨 Design & Productivity
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="60"/><br>Photoshop
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="60"/><br>Illustrator
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/microsoft-word-2019.png" width="60"/><br>MS Word
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/><br>MS Excel
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="60"/><br>MS PowerPoint
+</td>
+
+<td align="center">
+  <img src="https://img.icons8.com/color/96/000000/canva.png" width="60"/><br>Canva
+</td>
+
+<td align="center">
+  <img src="https://img.icons8.com/color/96/capcut.png" width="60"/><br>CapCut
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -112,38 +235,74 @@ Users can create profiles, upload images, customize resume sections, and export 
 
 
 ---
+## 📬 Connect with Me
 
-## 🌐 Contact & Profiles  
+<div align="center">
 
-<p align="center">
-  <a href="mailto:officialontar@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
-  </a>
-  <a href="https://officialontor.netlify.app/">
-    <img src="https://img.icons8.com/color/48/domain.png"/>
-  </a>
-  <a href="https://linkedin.com/in/officalontar">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  <a href="https://facebook.com/officialontar">
-    <img src="https://img.icons8.com/color/48/facebook.png"/>
-  </a>
-  <a href="https://officialontar.netlify.app">
-    <img src="https://img.icons8.com/color/48/domain.png"/>
-  </a>
-  <a href="https://instagram.com/officialontar">
-    <img src="https://img.icons8.com/color/48/instagram.png"/>
-  </a>
-  <a href="https://wa.me/8801974068788">
-    <img src="https://img.icons8.com/color/48/whatsapp.png"/>
-  </a>
-  <a href="https://x.com/officialontar">
-    <img src="https://img.icons8.com/color/48/twitter.png"/>
-  </a>
-  <a href="https://officialontar-web.netlify.app/">
-    <img src="https://img.icons8.com/color/48/domain.png"/>
-  </a>
-</p>
+<table style="border-collapse: collapse;">
+
+<tr>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="https://linkedin.com/in/officalontar" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
+</a>
+<br>LinkedIn
+</td>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="https://facebook.com/officialontar" target="_blank">
+<img src="https://img.icons8.com/color/96/facebook.png" width="50"/>
+</a>
+<br>Facebook
+</td>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="https://instagram.com/officialontar" target="_blank">
+<img src="https://img.icons8.com/color/96/instagram-new.png" width="50"/>
+</a>
+<br>Instagram
+</td>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="https://x.com/officialontar" target="_blank">
+<img src="https://cdn.simpleicons.org/x/000000" width="50"/>
+</a>
+<br>X
+</td>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="https://wa.me/8801974068788" target="_blank">
+<img src="https://img.icons8.com/color/96/whatsapp.png" width="50"/>
+</a>
+<br>WhatsApp
+</td>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="mailto:officialontar@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
+</a>
+<br>Gmail
+</td>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="https://officialontar.netlify.app/" target="_blank">
+<img src="https://img.icons8.com/color/96/domain.png" width="50"/>
+</a>
+<br>Portfolio
+</td>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="https://officialontar-web.netlify.app/" target="_blank">
+<img src="https://img.icons8.com/color/96/domain.png" width="50"/>
+</a>
+<br>Website
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
