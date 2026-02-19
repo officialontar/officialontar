@@ -98,9 +98,9 @@ Users can create profiles, upload images, customize resume sections, and export 
 
 <p align="center">
   <img height="165" width="420"
-       src="https://github-readme-stats.vercel.app/api?username=officialontar&show_icons=true&theme=radical&cache_seconds=1800" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=officialontar&show_icons=true&theme=radical" />
   <img height="165" width="360"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
