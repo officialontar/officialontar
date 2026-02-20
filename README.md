@@ -270,7 +270,7 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 </td>
 
 <td align="center">
-  <img src="images/capcut.png" width="60"/><br>CapCut
+  <img src="images/capcut.svg" width="60"/><br>CapCut
 </td>
 
 </tr>
