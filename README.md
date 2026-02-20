@@ -1,6 +1,11 @@
-<h1 align="center">
+<!-- <h1 align="center">
   🧑‍💻 MD. ANISUJJAMAN ONTAR || Full Stack Web Developer
-</h1>
+</h1> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=260&width=1000&section=header&text=🧑‍💻%20MD.%20ANISUJJAMAN%20ONTAR%20||%20Full%20Stack%20Web%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=65" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=✍️+Welcome+to+my+GitHub+Profile+!;Hello+!+I'm+MD+ANISUJJAMAN+ONTAR+💪;Full+Stack+Web+Developer;(Python+|+Django+|+React);Problem+Solver+|+Web+Developer+|+Assistant+Trainer;Building+Scalable+Web+Applications" />
@@ -51,7 +56,80 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 - 🔥 Backend, Frontend & Full Stack expertise  
 - 🌱 Learning **Data Science, Big Data & Machine Learning**  
 - 🧠 Focused on **System Design & Backend Architecture**  
-- ✍️ Open-source contributor & tech writer  
+- ✍️ Open-source contributor & tech writer
+
+---
+
+<h1 align="center">🏆 My Achievements</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=2000&color=F4C430&center=true&vCenter=true&width=700&height=120&lines=Python+%26+C%2FC%2B%2B+Specialist+%F0%9F%9B%A0%EF%B8%8F;HackerRank+Certified+%E2%9C%85;5-Star+Gold+Badge+Holder+%F0%9F%A5%87" />
+</p>
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="250">
+
+<div style="border:1px solid #d0d7de; padding:20px; border-radius:10px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/5%20STARS-GOLD-yellow?style=for-the-badge&logo=hackerrank"/>
+
+<br><br>
+
+<b>Python</b>
+
+</div>
+
+</td>
+
+<td align="center" width="250">
+
+<div style="border:1px solid #d0d7de; padding:20px; border-radius:10px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/5%20STARS-GOLD-yellow?style=for-the-badge&logo=hackerrank"/>
+
+<br><br>
+
+<b>C++ (CPP)</b>
+
+</div>
+
+</td>
+
+<td align="center" width="250">
+
+<div style="border:1px solid #d0d7de; padding:20px; border-radius:10px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/5%20STARS-GOLD-yellow?style=for-the-badge&logo=hackerrank"/>
+
+<br><br>
+
+<b>C Language</b>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 ## 🛠 Languages and Tools
