@@ -346,7 +346,7 @@ Users can create profiles, upload images, customize resume sections, and export 
 <a href="https://x.com/officialontar" target="_blank">
 <img src="https://cdn.simpleicons.org/x/000000" width="50"/>
 </a>
-<br>X
+<br>X or Twitter
 </td>
 
 <td align="center" style="border:none; padding:15px;">
