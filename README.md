@@ -112,7 +112,7 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 
 <div style="border:1px solid #d0d7de; padding:20px; border-radius:10px;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="95"/>
 
 <br><br>
 
@@ -132,9 +132,9 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 </div>
 
 ---
-## 🛠 Languages and Tools
+<h2 align="center"> ⚙️ Languages and Tools  🛠️ </h2>
+<hr width="200px">
 
----
 
 ### 💻 Programming Languages
 <div align="center">
@@ -270,7 +270,7 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 </td>
 
 <td align="center">
-  <img src="https://img.icons8.com/color/96/capcut.png" width="60"/><br>CapCut
+  <img src="images/capcut.png" width="60"/><br>CapCut
 </td>
 
 </tr>
@@ -361,6 +361,13 @@ Users can create profiles, upload images, customize resume sections, and export 
 <img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
 </a>
 <br>Gmail
+</td>
+
+<td align="center" style="border:none; padding:15px;">
+<a href="https://officialontor.netlify.app/" target="_blank">
+<img src="https://img.icons8.com/color/96/domain.png" width="50"/>
+</a>
+<br>Website-React
 </td>
 
 <td align="center" style="border:none; padding:15px;">
