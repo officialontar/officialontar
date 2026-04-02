@@ -132,6 +132,16 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 </div>
 
 ---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=officialontar&theme=radical" />
+</p>
+
+
+
+
 <h2 align="center"> ⚙️ Languages and Tools  🛠️ </h2>
 <hr width="200px">
 
@@ -278,6 +288,7 @@ I’m a **Full Stack Web Developer** passionate about creating clean, scalable, 
 
 </div>
 
+
 ---
 
 ## 🚀 Featured Projects  
@@ -295,20 +306,28 @@ Socket-based messaging platform enabling instant communication between connected
 Users can create profiles, upload images, customize resume sections, and export resumes as PDF.
 
 ---
-## 📊 GitHub Statistics  
+## 📊 GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td>
+      <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=officialontar&show_icons=true&theme=radical&include_all_commits=true&custom_title=MD.%20ANISUJJAMAN%20ONTAR's%20GitHub%20Stats" />
+    </td>
+    <td>
+      <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=radical&langs_count=10&custom_title=Most%20Used%20Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="165" width="420"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=officialontar&show_icons=true&theme=radical" />
-  <img height="165" width="360"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=officialontar&layout=compact&theme=radical" />
+  <img height="170" src="https://streak-stats.demolab.com?user=officialontar&theme=radical" />
 </p>
+
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/officialontar/officialontar/main/contribution-chart.svg?v=2" width="900" alt="Contribution Chart" />
 </p>
-
 
 
 
